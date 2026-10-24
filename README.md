@@ -1,6 +1,4 @@
 # Consumer-Electronics-Sales-PowerBI
-Power BI sales dashboard for consumer electronics (2018 to 2022): employee performance, top and bottom items and AI visuals.
-# Consumer Electronics: Sales Performance (Power BI)
 
 A 3-page Power BI report that shows which years, employees, products and states drive revenue for a consumer electronics business (2018 to 2022).
 
