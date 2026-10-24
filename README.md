@@ -39,9 +39,9 @@ KPI cards and charts use Power BI aggregations: Sum of Total_Revenue, Sum of Qua
 Power BI Desktop, DAX
 
 ## Dashboard Preview
-| <img width="1342" height="757" alt="1st-Dashboard_Preview" src="https://github.com/user-attachments/assets/111facd6-ceed-4510-a1ee-a720dbc8b2e7" /> |
-| <img width="1197" height="675" alt="Dashboard_2" src="https://github.com/user-attachments/assets/d9552d0f-9637-47f2-a0a8-97e2a820adcb" /> |
-|<img width="1197" height="672" alt="Dashboard_3" src="https://github.com/user-attachments/assets/cdb076fc-56f7-4d8c-879e-9095ec28e1f9" /> |
+<img width="1342" height="757" alt="1st-Dashboard_Preview" src="https://github.com/user-attachments/assets/111facd6-ceed-4510-a1ee-a720dbc8b2e7" /> 
+<img width="1197" height="675" alt="Dashboard_2" src="https://github.com/user-attachments/assets/d9552d0f-9637-47f2-a0a8-97e2a820adcb" /> 
+<img width="1197" height="672" alt="Dashboard_3" src="https://github.com/user-attachments/assets/cdb076fc-56f7-4d8c-879e-9095ec28e1f9" /> 
 
 
 ## Data Model
