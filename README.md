@@ -41,5 +41,8 @@ Power BI Desktop, DAX
 ## Dashboard Preview
 <img width="1342" height="757" alt="1st-Dashboard_Preview" src="https://github.com/user-attachments/assets/111facd6-ceed-4510-a1ee-a720dbc8b2e7" />
 
+## Data Model
+<img width="805" height="690" alt="Data_Model" src="https://github.com/user-attachments/assets/e386ba8d-89f2-469b-a208-b71f440b3b38" />
+
 ## Author
 Umesh Sakpal | umeshsakpal14@gmail.com
